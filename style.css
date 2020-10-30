@@ -21,7 +21,7 @@ body{
 
 .box{
     height: 100px;
-    min-width: 500px;
+    flex-basis: 500px;
 }
 
 .one{
