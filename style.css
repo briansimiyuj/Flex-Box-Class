@@ -15,13 +15,15 @@ body{
 
 .flex-container{
     display: flex;
-    background-color: #fff; 
+    background-color: brown; 
     flex-wrap: wrap;
+    margin-top: 30%;
+    justify-content: start;
 }
 
 .box{
     height: 100px;
-    flex: 1 0 200px;
+    flex-basis: 150px;
 }
 
 .one{
